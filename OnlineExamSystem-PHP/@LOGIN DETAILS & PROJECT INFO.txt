@@ -1,0 +1,21 @@
+**Database Name: oesm**
+
+**Developed by TEAM_RUMMY**
+
+**Recommended PHP Version 5.6.3 and 7.4.12**
+
+
+**Student Login Details**
+
+Email   : deepika@gmail.com
+Password: deepika@123
+
+
+**Admin Login Details**
+------------------------------
+Email    : ashu@gmail.com
+Password : 1234
+------------------------------
+Email    : d@d.com
+Password : asd
+------------------------------
